@@ -1,0 +1,29 @@
+{
+  "name": "iotransit-cp",
+  "version": "1.0.0",
+  "description": "IoTransit controlplane api module",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://rgillan@github.com/nisient/iotransit-cp.git"
+  },
+  "keywords": [
+    "iotransit",
+    "controlplane"
+  ],
+  "author": "nisient pty. ltd.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nisient/iotransit-cp/issues"
+  },
+  "homepage": "https://github.com/nisient/iotransit-cp#readme",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}
