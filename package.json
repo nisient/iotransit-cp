@@ -1,6 +1,6 @@
 {
   "name": "iotransit-cp",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "IoTransit controlplane api module",
   "main": "index.js",
   "directories": {
